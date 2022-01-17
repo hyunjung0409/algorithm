@@ -1,3 +1,3 @@
 # algorithm
 
-수정했다 왜 안돼
+22.01.17 hyunjung

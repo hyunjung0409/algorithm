@@ -18,7 +18,7 @@ public class 하노이탑이동순서_11729 {
 	}
 
 	private static void hanoitop(int n, int start, int mid, int des) {
-		K++;
+		K++; //총 이동 횟수
 		
 		if (n == 1) {
 			sb.append(start + " " + des + " \n");

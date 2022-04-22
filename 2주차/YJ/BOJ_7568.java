@@ -25,7 +25,7 @@ public class BOJ_7568 {
 		for (int i = 0; i < N; i++) {
 			int k = 1;
 			for (int j = 0; j < N; j++) {
-				if (info[i][0] < info[j][0] && info[i][1] < info[j][1]) {
+				if (info[i][0] < info[j][0] && info[i][1] < info[j][1]) { //자신보다 덩치가 크면 k 증가
 					k++;
 				}
 			}

@@ -35,3 +35,7 @@
   - [프로그래머스 양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)
   - [백준 1018번 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) (브루트 포스)
   - [백준 1436번 영화감독 숌](https://www.acmicpc.net/problem/1436) (브루트 포스)
+- 4주차: 
+  - [프로그래머스 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)(스택/큐)
+  - [백준 10828번 스택](https://www.acmicpc.net/problem/10828)
+  - [백준 18258번 큐2](https://www.acmicpc.net/problem/18258)

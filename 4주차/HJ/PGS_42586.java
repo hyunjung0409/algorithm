@@ -9,7 +9,7 @@ class Solution {
         Queue<Integer> result = new LinkedList<>();
         
         for(int i=0; i<progresses.length; i++){
-            q.add((100-progresses[i])%speeds[i] == 0 ? (100-progresses[i]) : ((100-progresses[i])/speeds[i] + 1));
+            q.add((100-progresses[i])%speeds[i] == 0 ? (100-progresses[i]/speeds[i]) : ((100-progresses[i])/speeds[i] + 1));
         }
 
         int start = q.poll();

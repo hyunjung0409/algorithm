@@ -39,3 +39,7 @@
   - [프로그래머스 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)(스택/큐)
   - [백준 10828번 스택](https://www.acmicpc.net/problem/10828)
   - [백준 18258번 큐2](https://www.acmicpc.net/problem/18258)
+- 5주차: 
+  - [프로그래머스 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)(스택/큐)(준우)
+  - [백준 10799번 쇠막대기](https://www.acmicpc.net/problem/10799)(스택)(현정)
+  - [백준 14713번 앵무새](https://www.acmicpc.net/problem/14713)(스택/큐)(예진)

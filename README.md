@@ -43,3 +43,12 @@
   - [프로그래머스 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)(스택/큐)(준우)
   - [백준 10799번 쇠막대기](https://www.acmicpc.net/problem/10799)(스택)(현정)
   - [백준 14713번 앵무새](https://www.acmicpc.net/problem/14713)(스택/큐)(예진)
+- 6주차:
+  - [프로그래머스 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)(스택/큐)(예진)
+  - [백준 1935번 후위 표기식2](https://www.acmicpc.net/problem/1935)(스택)(현정)
+  - [백준 13335번 트럭](https://www.acmicpc.net/problem/13335)(큐)(준우)
+- 7주차:
+  - [프로그래머스 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)(구현)
+  - [백준 2504번 괄호의 값](https://www.acmicpc.net/problem/2504)(구현)(설)
+  - [백준 1835번 카드](https://www.acmicpc.net/problem/1835)(구현)(준우)
+  - [백준 1138번 한 줄로 서기](https://www.acmicpc.net/problem/1138)(구현)(예진)

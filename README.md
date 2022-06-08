@@ -52,3 +52,8 @@
   - [백준 2504번 괄호의 값](https://www.acmicpc.net/problem/2504)(구현)(설)
   - [백준 1835번 카드](https://www.acmicpc.net/problem/1835)(구현)(준우)
   - [백준 1138번 한 줄로 서기](https://www.acmicpc.net/problem/1138)(구현)(예진)
+- 8주차:
+  - [프로그래머스 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)(구현)
+  - [백준 2504번 괄호의 값](https://www.acmicpc.net/problem/2504)(구현)(준우)
+  - [백준 11899번 괄호 끼워넣기](https://www.acmicpc.net/problem/11899)(구현)(예진)
+  - [백준 2992번 크면서 작은 수](https://www.acmicpc.net/problem/2992)(구현)(현정)

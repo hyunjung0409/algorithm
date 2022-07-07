@@ -63,3 +63,9 @@
   - [백준 10973번 이전 순열](https://www.acmicpc.net/problem/10973)(구현)(예진)
   - [백준 2503번 숫자 야구](https://www.acmicpc.net/problem/2503)(구현)(현정)
   - [백준 1913번 달팽이](https://www.acmicpc.net/problem/1913)(구현)(보너스 문제)
+- 10주차:
+  - [백준 9019번 DSLR](https://www.acmicpc.net/problem/9019)(탐색)(현정)
+  - [백준 13549번 숨바꼭질 3](https://www.acmicpc.net/problem/13549)(탐색)(현정)
+  - [백준 16953번 A → B](https://www.acmicpc.net/problem/16953)(탐색)(예진)
+  - [백준 1600번 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)(탐색)(설)
+  

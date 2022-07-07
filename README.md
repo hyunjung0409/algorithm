@@ -58,7 +58,7 @@
   - [백준 11899번 괄호 끼워넣기](https://www.acmicpc.net/problem/11899)(구현)(예진)
   - [백준 2992번 크면서 작은 수](https://www.acmicpc.net/problem/2992)(구현)(현정)
 - 9주차:
-  - [프로그래머스 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057
+  - [프로그래머스 문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)
   - [백준 1051번 숫자 정사각형](https://www.acmicpc.net/problem/1051)(구현)(준우)
   - [백준 10973번 이전 순열](https://www.acmicpc.net/problem/10973)(구현)(예진)
   - [백준 2503번 숫자 야구](https://www.acmicpc.net/problem/2503)(구현)(현정)

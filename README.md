@@ -69,6 +69,6 @@
   - [백준 1600번 말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)(탐색)(설)
 - 11주차:
   - [백준 7576번 토마토](https://www.acmicpc.net/problem/7576)(탐색)(예진)
-  - [백준 7579번 토마토](https://www.acmicpc.net/problem/7579)(탐색)(예진)
+  - [백준 7569번 토마토](https://www.acmicpc.net/problem/7569)(탐색)(예진)
   - [백준 2206번 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)(탐색)(현정)
   - [백준 2606번 바이러스](https://www.acmicpc.net/problem/2606)(탐색)(현정)

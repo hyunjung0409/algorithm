@@ -72,3 +72,6 @@
   - [백준 7569번 토마토](https://www.acmicpc.net/problem/7569)(탐색)(예진)
   - [백준 2206번 벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)(탐색)(현정)
   - [백준 2606번 바이러스](https://www.acmicpc.net/problem/2606)(탐색)(현정)
+- 12주차:
+  - [백준 2644번 촌수계산](https://www.acmicpc.net/problem/2644)(탐색)(설)
+  - [백준 19238번 스타트 택시](https://www.acmicpc.net/problem/19238)(탐색)(현정)

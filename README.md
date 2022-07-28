@@ -77,4 +77,4 @@
   - [백준 19238번 스타트 택시](https://www.acmicpc.net/problem/19238)(탐색)(현정)
 - 13주차
   - [백준 1339번 단어 수학](https://www.acmicpc.net/problem/1339)(브루트 포스)(현정)
-  - [백준 14391번 종이 조각](https://www.acmicpc.net/problem/14391)(브루트 포스)(예진
+  - [백준 14391번 종이 조각](https://www.acmicpc.net/problem/14391)(브루트 포스)(예진)

@@ -86,4 +86,4 @@
   - [백준 14889번 스타트와 링크](https://www.acmicpc.net/problem/14889)
 - 15주차
   - [백준 16234번 인구 이동](https://www.acmicpc.net/problem/16234)(BFS)(설)
-  - [백준 2644번 촌수계산](https://www.acmicpc.net/problem/2644)(DF)()
+  - [백준 2644번 촌수계산](https://www.acmicpc.net/problem/2644)(DF)(예진)

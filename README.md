@@ -90,3 +90,6 @@
 - 16주차
   - [백준 17140번 이차원 배열과 연산](https://www.acmicpc.net/problem/17140)(구현)(설)
   - [백준 14889번 스타트와 링크](https://www.acmicpc.net/problem/14889)(브루트 포스)(예진)
+- 17주차
+  - [백준 1912번 연속합](https://www.acmicpc.net/problem/1912)(DF)(현정)
+  - [백준 9465번 스티커](https://www.acmicpc.net/problem/9465)(DF)(예진)

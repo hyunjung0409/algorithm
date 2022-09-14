@@ -93,3 +93,6 @@
 - 17주차
   - [백준 1912번 연속합](https://www.acmicpc.net/problem/1912)(DF)(현정)
   - [백준 9465번 스티커](https://www.acmicpc.net/problem/9465)(DF)(예진)
+- 18주차
+  - [백준 1890번 점프](https://www.acmicpc.net/problem/1890)(DF)(현정)
+  - [백준 11048번 이동하기](https://www.acmicpc.net/problem/11048)(DF)(예진)

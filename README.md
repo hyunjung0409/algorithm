@@ -95,3 +95,6 @@
 - 18주차
   - [백준 1890번 점프](https://www.acmicpc.net/problem/1890)(DF)(현정)
   - [백준 11048번 이동하기](https://www.acmicpc.net/problem/11048)(DF)(예진)
+- 19주차
+  - [백준 14226번 이모티콘](https://www.acmicpc.net/problem/14226)(BFS)(현정)
+  - [백준 2156번 포도주 시식](https://www.acmicpc.net/problem/2156)(DF)(예진)

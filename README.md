@@ -102,3 +102,6 @@
   - [백준 5547번 일루미네이션 ](https://www.acmicpc.net/problem/5547)(BFS)(현정)
   - [백준 1780번 종이의 개수](https://www.acmicpc.net/problem/1780)(분할정복)(예진)
   - [백준 2156번 포도주 시식](https://www.acmicpc.net/problem/2156)(DF)(예진)
+- 21주차
+  - [백준 1629번 곱셈](https://www.acmicpc.net/problem/1629)(분할정복)(현정)
+  - [백준 2630번 색종이 만들기](https://www.acmicpc.net/problem/2630)(분할정복)(예진)

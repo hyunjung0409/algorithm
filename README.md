@@ -111,4 +111,4 @@
 - 38주차
   - [백준 10830번 행렬 제곱](https://www.acmicpc.net/problem/10830)(분할정복)(예진)
   - [백준 1493번 박스 채우기](https://www.acmicpc.net/problem/1493)(분할정복)(현정)
-  - [백준 2800번 괄호 제거](https://www.acmicpc.net/problem/1780)(재귀)
+  - [백준 2800번 괄호 제거](https://www.acmicpc.net/problem/2800)(재귀)

@@ -112,3 +112,8 @@
   - [백준 10830번 행렬 제곱](https://www.acmicpc.net/problem/10830)(분할정복)(예진)
   - [백준 1493번 박스 채우기](https://www.acmicpc.net/problem/1493)(분할정복)(현정)
   - [백준 2800번 괄호 제거](https://www.acmicpc.net/problem/2800)(재귀)
+- 39주차
+  - [백준 2753번 윤년](https://www.acmicpc.net/problem/2753)(구현)(예진)
+  - [백준 5597번 과제 안 내신 분..?](https://www.acmicpc.net/problem/5597)(구현)(예진)
+  - [백준 20053번 최소, 최대 2](https://www.acmicpc.net/problem/20053)(구현)(현정)
+  - [백준 1212번 8진수 2진수](https://www.acmicpc.net/problem/1212)(구현)(현정)

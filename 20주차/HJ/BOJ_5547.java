@@ -1,8 +1,6 @@
 //https://www.acmicpc.net/problem/5547
 //일루미네이션 골드5
 
-package BFS;
-
 import java.io.*;
 import java.util.*;
 

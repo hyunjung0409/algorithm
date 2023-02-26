@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BOJ_2477 {
+public class BOJ_2447 {
 	static String[][] arr;
 
 	public static void main(String[] args) throws NumberFormatException, IOException {

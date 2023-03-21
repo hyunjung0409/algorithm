@@ -120,4 +120,6 @@
 - 40주차
   - [백준 2615번 오목](https://www.acmicpc.net/problem/2615)(구현)(예진)
   - [백준 20207번 달력](https://www.acmicpc.net/problem/20207)(구현)(현정)
-  - [백준 16926번 배열 돌리기 1](https://www.acmicpc.net/problem/16926)(구현)
+- 41주차
+  - [백준 16926번 배열 돌리기 1](https://www.acmicpc.net/problem/16926)(구현)(예진)
+  - [백준 16935번 배열 돌리기 3](https://www.acmicpc.net/problem/16935)(구현)(현정)

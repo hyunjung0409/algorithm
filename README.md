@@ -123,3 +123,6 @@
 - 41주차
   - [백준 16926번 배열 돌리기 1](https://www.acmicpc.net/problem/16926)(구현)(예진)
   - [백준 16935번 배열 돌리기 3](https://www.acmicpc.net/problem/16935)(구현)(현정)
+- 42주차
+  - [백준 15686번 치킨 배달](https://www.acmicpc.net/problem/15686)(구현)(예진)
+  - [백준 14503번 로봇 청소기](https://www.acmicpc.net/problem/14503)(구현)(현정)

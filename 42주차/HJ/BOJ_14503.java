@@ -46,8 +46,8 @@ public class BOJ_14503 {
         for (int i = 0; i < 4; i++) {
             //3-1. 반시계 방향으로 90도 회전한다.
             d = (d + 3) % 4;
-            int nr = r + dr[i];
-            int nc = c + dc[i];
+            int nr = r + dr[d];
+            int nc = c + dc[d];
             //청소 완료(2) 또는 벽(1)일 경우
             if(map[nr][nc] > 0) continue;
             //청소하지 않은 공간이라면
@@ -58,7 +58,6 @@ public class BOJ_14503 {
         
         //2. 현재 칸의 주변 4칸 중 청소되지 않은 빈 칸이 없는 경우,
         //2-1. 바라보는 방향 유지 -> 한 칸 후진 -> 1번부터 재진행
-        d = (d + 2) % 4;
         dfs(r - dr[d], c - dc[d], d);
         //2-2. 바라보는 방향 뒤쪽 칸이 벽으로 후진할 수 없으면 작동 멈춤
         return;

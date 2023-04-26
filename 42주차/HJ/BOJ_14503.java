@@ -3,7 +3,7 @@ import java.util.*;
 
 public class BOJ_14503 {
 
-    static int N, M, r, c = 0, d, cnt, map[][];
+    static int N, M, r, c, d, cnt, map[][];
     //d: 0 - 북, 1 - 동, 2 - 남, 3 - 서
     static int dr[] = {-1, 0, 1, 0};
     static int dc[] = {0, 1, 0, -1};
@@ -41,6 +41,7 @@ public class BOJ_14503 {
             map[r][c] = 2;
             cnt++;
         }
+        
 
         //3. 현재 칸의 주변 4칸 중 청소되지 않은 빈 칸이 있는 경우,
         for (int i = 0; i < 4; i++) {
@@ -53,7 +54,7 @@ public class BOJ_14503 {
             //청소하지 않은 공간이라면
             //3-2. 그 방향으로 회전하고 한 칸 전진 -> 3-3. 1번부터 재진행
             dfs(nr, nc, d);
-            return;
+//            return;
         }
         
         //2. 현재 칸의 주변 4칸 중 청소되지 않은 빈 칸이 없는 경우,
@@ -62,5 +63,13 @@ public class BOJ_14503 {
         //2-2. 바라보는 방향 뒤쪽 칸이 벽으로 후진할 수 없으면 작동 멈춤
         return;
     }
+//    5 5
+//    2 1 0
+//    1 1 1 1 1
+//    1 0 1 0 1
+//    1 0 1 0 1
+//    1 0 0 0 1
+//    1 1 1 1 1
+//    >> 6
     
 }

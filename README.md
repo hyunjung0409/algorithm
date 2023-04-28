@@ -126,3 +126,5 @@
 - 42주차
   - [백준 15686번 치킨 배달](https://www.acmicpc.net/problem/15686)(구현)(예진)
   - [백준 14503번 로봇 청소기](https://www.acmicpc.net/problem/14503)(구현)(현정)
+- 43주차
+  - [백준 5582번 공통 부분 문자열](https://www.acmicpc.net/problem/5582)(문자열)
